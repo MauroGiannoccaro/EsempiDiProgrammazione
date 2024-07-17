@@ -1,5 +1,12 @@
-//JAVA SPRING BOOT
+//RistorApp
+//.net
+//MySQL
+//Swagger
 
+//Battle TO Hero
+//JAVA SPRING BOOT
+//SQLite
+//Postman
 
 POST http://localhost:8080/rest/heroes HTTP/1.1
 Content-Type: application/json
