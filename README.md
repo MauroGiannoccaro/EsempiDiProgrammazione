@@ -3,6 +3,18 @@
 //MySQL
 //Swagger
 
+//banca
+//.net
+
+//elenco studenti
+//react-native
+
+//esercizio 2 
+//java microservizi
+//swagger
+//spring-boot
+//h2o db
+
 //Battle TO Hero
 //JAVA SPRING BOOT
 //SQLite
