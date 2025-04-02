@@ -1,3 +1,5 @@
+//next.js, Tailwind, Zustand, server action, useForm, middleware
+
 //MeteoApp
 ReactNative
 
