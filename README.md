@@ -1,3 +1,5 @@
+//openLibrary progetto next.js co utilizzo di handler, zustand, skeletron, interceptor
+
 //next.jsApp Restaurant app
 
 //Progetto Cinema Angular v19
