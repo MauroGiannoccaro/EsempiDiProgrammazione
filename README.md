@@ -1,4 +1,4 @@
-//openLibrary progetto next.js co utilizzo di handler, zustand, skeletron, interceptor
+//openLibrary progetto next.js co utilizzo di handler, zustand, skeletron, interceptor, BehaviorSubject, observable
 
 //next.jsApp Restaurant app
 
